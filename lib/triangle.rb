@@ -34,6 +34,6 @@ class Triangle
   end
 end
 
-class TriangleError < StandardError
+lass TriangleError < StandardError
 
 end
